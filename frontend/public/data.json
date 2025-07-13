@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "The Power Within",
+    "desc": "A motivational guide to unlocking your true potential through mindset and discipline.",
+    "price": 0,
+    "genre": "Motivational",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/book-hardcover-mockup_125540-225.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Whispers of the Past",
+    "desc": "A suspenseful thriller uncovering dark secrets buried in an ancient town.",
+    "price": 199,
+    "genre": "Suspense",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/mysterious-old-book-with-dark-cover-generated-by-ai_188544-29318.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Letters to You",
+    "desc": "A touching story of love and longing through hand-written letters across decades.",
+    "price": 0,
+    "genre": "Romance",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/romantic-poetry-book-bouquet-flowers_1150-12362.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Beyond the Fog",
+    "desc": "A gripping tale of survival and mystery set in a fog-drenched coastal village.",
+    "price": 149,
+    "genre": "Mystery",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/old-book-covered-dust-generative-ai_188544-8250.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Timeless Treasures",
+    "desc": "A curated collection of vintage literature, essays, and forgotten classics.",
+    "price": 99,
+    "genre": "Vintage",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/vintage-books-stacked-on-top-each-other_23-2149437813.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fuel Your Fire",
+    "desc": "Motivational tactics and daily habits from world-class performers and thinkers.",
+    "price": 0,
+    "genre": "Motivational",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/flat-lay-arrangement-books-copy-space_23-2148827182.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dead Silence",
+    "desc": "A nail-biting detective thriller with twists at every turn.",
+    "price": 179,
+    "genre": "Thriller",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/crime-scene-evidence-wooden-table-generated-by-ai_188544-32480.jpg"
+  },
+  {
+    "id": 8,
+    "name": "A Vintage Affair",
+    "desc": "Heartwarming stories of love and loss through the lens of old-world charm.",
+    "price": 129,
+    "genre": "Vintage Romance",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/bookshelf-filled-with-old-books_53876-102789.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Quiet Revolution",
+    "desc": "Explore how introverts are reshaping leadership, creativity, and innovation.",
+    "price": 0,
+    "genre": "Self-Help",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/open-book-nature-background-close-up_1150-7362.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Midnight Echoes",
+    "desc": "A suspense romance filled with unexpected connections and ghostly echoes.",
+    "price": 149,
+    "genre": "Suspense Romance",
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/romantic-dreamy-woman-reading-book-evening_23-2148612186.jpg"
+  }
+]
